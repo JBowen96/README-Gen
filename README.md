@@ -5,7 +5,7 @@
 This application creates a tool which allows for the quick creation of README files.
 
 ##Example
-
+<video src="Video/2023-09-25%2011-07-19.mp4" controls title="Title"></video>
 
 ## Installation
 Assure that you have inquirer 7.0.0
