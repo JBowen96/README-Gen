@@ -1,10 +1,8 @@
 // generateReadme function populating the README.md
 function generateReadme(answers) {
-    return `
+  return `
     <h1 align="center">${answers.projTitle} 👋</h1>
       
-    ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
-    
     ## Description
     🔍 ${answers.description}
     
@@ -38,5 +36,5 @@ function generateReadme(answers) {
     `;
 }
 
-      
-  module.exports = generateReadme;
+
+module.exports = generateReadme;

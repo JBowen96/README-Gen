@@ -12,7 +12,7 @@ function promptUser() {
         {
             type: "input",
             name: "projTitle",
-            message: "Give the Title for the Project",
+            message: "Give a title for the Project",
         },
         {
             type: "input",
@@ -46,7 +46,7 @@ function promptUser() {
         {
             type: "input",
             name: "contributing",
-            message: "Input contributors:"
+            message: "Contributor list:"
         },
         {
             type: "input",
