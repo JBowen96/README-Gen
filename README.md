@@ -5,7 +5,8 @@
 This application creates a tool which allows for the quick creation of README files.
 
 ##Example
-Video/2023-09-25%2011-07-19.mp4
+
+A full video of the application functioning can be found [here](https://github.com/JBowen96/README-Gen/blob/main/Video/2023-09-25%2011-07-19.mp4)
 
 ## Installation
 Assure that you have inquirer 7.0.0
