@@ -5,6 +5,8 @@
 This application creates a tool which allows for the quick creation of README files.
 
 ##Example
+![80cq3r](https://github.com/JBowen96/README-Gen/assets/139276635/6306676d-65d6-483c-9c13-f217efa85b44)
+
 
 A full video of the application functioning can be found [here](https://github.com/JBowen96/README-Gen/blob/main/Video/2023-09-25%2011-07-19.mp4)
 
